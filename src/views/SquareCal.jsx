@@ -8,7 +8,7 @@ export default function SquareCal () {
   return (
     <>
         <NavBar/>
-        <HeaderCal titleName="Square Calculator" imgName={square} />
+        <HeaderCal titleName="Square Calculator" imgName={square}titleColor={"rgba(38, 114, 28, 1)"} />
         Square Page
         <Footer emoji="😋" />
     </>

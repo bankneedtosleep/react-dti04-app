@@ -7,7 +7,7 @@ export default function BmrCal() {
   return (
     <>
       <NavBar/>
-        <HeaderCal titleName="Car Calculator"imgName={bmr} />
+        <HeaderCal titleName="Car Calculator"imgName={bmr}titleColor={"#00d9ffff"} />
         BmrCal Page
         <Footer emoji="👋" />
     </>

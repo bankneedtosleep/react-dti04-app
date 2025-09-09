@@ -8,7 +8,7 @@ export default function CraCal() {
   return (
     <>
         <NavBar/>
-        <HeaderCal titleName="Car Calculator" imgName={cra} />
+        <HeaderCal titleName="Car Calculator" imgName={cra}titleColor={"#ff00b7ff"} />
         CarCal Page
         <Footer emoji="🐙" />
         </>

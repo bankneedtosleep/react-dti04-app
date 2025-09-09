@@ -8,7 +8,7 @@ export default function MoneyCal() {
   return (
     <>
         <NavBar/>
-        <HeaderCal titleName="Money Calculator" imgName={money}/>
+        <HeaderCal titleName="Money Calculator" imgName={money}titleColor={"#c3ff00ff"}/>
         MoneyCal Page
         <Footer emoji="🎅" />
     </>
